@@ -1,3 +1,9 @@
+## Tech Stack
+
+**Client:** React, HTML, CSS
+
+**Server:** Spring Boot, SQL
+
 ## Screenshot
 
 <img width="800" alt="Screenshot 2022-08-01 at 2 06 02 AM" src="https://user-images.githubusercontent.com/67600291/182045068-a505c28a-996c-463a-bb0c-45acc5de9c93.png">
