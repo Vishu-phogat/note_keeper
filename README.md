@@ -2,7 +2,6 @@
 
 **Client:** React, HTML, CSS
 
-**Server:** Spring Boot, SQL
 
 ## Screenshot
 
