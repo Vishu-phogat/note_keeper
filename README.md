@@ -29,4 +29,4 @@ $env:NODE_OPTIONS = "--openssl-legacy-provider"
 
 ## Author
 
-https://github.com/Vishu-phogat
+- [@vishu_phogat](https://github.com/Vishu-phogat)
